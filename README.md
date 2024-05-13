@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 4. Start the development server using npm start.
 5. You may access the program using your web browser at http://localhost:3000.
 
-### Usage
+## Usage
 
 1. Connect MetaMask Wallet:<br>
    • Make sure you have MetaMask installed in your browser and connected to the Ethereum network.<br>
@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
   • Click the "Withdraw 1 ETH" button to withdraw 1 ETH from the smart contract.<br>
   • Confirm the transaction in MetaMask to complete the withdrawal.<br>
 
-### Technologies Used
+## Technologies Used
 
 • React: JavaScript library for building user interfaces.<br>
 • Ethereum: Blockchain platform used for smart contract deployment and transactions.<br>
