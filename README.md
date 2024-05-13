@@ -20,30 +20,30 @@ To run this project locally, follow these steps:
 
 ### Usage
 
-1. Connect MetaMask Wallet:<br>
+1. Connect MetaMask Wallet:<br><br>
    • Make sure you have MetaMask installed in your browser and connected to the Ethereum network.<br>
    • Click the "Connect MetaMask Wallet" button on the application to connect your wallet.<br>
   
-3. View Account Details:
-  • After connecting your wallet, you will see your Ethereum account address and current balance displayed on the screen.
+2. View Account Details:<br><br>
+  • After connecting your wallet, you will see your Ethereum account address and current balance displayed on the screen.<br>
 
-4. Deposit ETH:
-  • Click the "Deposit 1 ETH" button to deposit 1 ETH into the smart contract.
-  • Confirm the transaction in MetaMask to complete the deposit.
+3. Deposit ETH:<br><br>
+  • Click the "Deposit 1 ETH" button to deposit 1 ETH into the smart contract.<br>
+  • Confirm the transaction in MetaMask to complete the deposit.<br>
 
-5. Withdraw ETH:
-  • Click the "Withdraw 1 ETH" button to withdraw 1 ETH from the smart contract.
-  • Confirm the transaction in MetaMask to complete the withdrawal.
+4. Withdraw ETH:<br><br>
+  • Click the "Withdraw 1 ETH" button to withdraw 1 ETH from the smart contract.<br>
+  • Confirm the transaction in MetaMask to complete the withdrawal.<br>
 
 ### Technologies Used
 
-• React: JavaScript library for building user interfaces.
-• Ethereum: Blockchain platform used for smart contract deployment and transactions.
-• ethers.js: JavaScript library for interacting with Ethereum smart contracts.
-• MetaMask: Browser extension for managing Ethereum accounts and interacting with dApps.
-• Next.js: React framework used for server-side rendering and routing.
-• Web3.js: Ethereum JavaScript API used for interacting with Ethereum nodes.
-• HTML/CSS: Markup and styling languages used for frontend design.
+• React: JavaScript library for building user interfaces.<br>
+• Ethereum: Blockchain platform used for smart contract deployment and transactions.<br>
+• ethers.js: JavaScript library for interacting with Ethereum smart contracts.<br>
+• MetaMask: Browser extension for managing Ethereum accounts and interacting with dApps.<br>
+• Next.js: React framework used for server-side rendering and routing.<br>
+• Web3.js: Ethereum JavaScript API used for interacting with Ethereum nodes.<br>
+• HTML/CSS: Markup and styling languages used for frontend design.<br>
 
 ## Authors
 
