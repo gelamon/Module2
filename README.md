@@ -20,9 +20,9 @@ To run this project locally, follow these steps:
 
 ### Usage
 
-1. Connect MetaMask Wallet:
-   • Make sure you have MetaMask installed in your browser and connected to the Ethereum network.
-   • Click the "Connect MetaMask Wallet" button on the application to connect your wallet.
+1. Connect MetaMask Wallet:<br>
+   • Make sure you have MetaMask installed in your browser and connected to the Ethereum network.<br>
+   • Click the "Connect MetaMask Wallet" button on the application to connect your wallet.<br>
   
 3. View Account Details:
   • After connecting your wallet, you will see your Ethereum account address and current balance displayed on the screen.
