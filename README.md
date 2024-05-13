@@ -21,17 +21,17 @@ To run this project locally, follow these steps:
 ### Usage
 
 1. Connect MetaMask Wallet:
-  • Make sure you have MetaMask installed in your browser and connected to the Ethereum network.
-  • Click the "Connect MetaMask Wallet" button on the application to connect your wallet.
+   • Make sure you have MetaMask installed in your browser and connected to the Ethereum network.
+   • Click the "Connect MetaMask Wallet" button on the application to connect your wallet.
   
-2. View Account Details:
+3. View Account Details:
   • After connecting your wallet, you will see your Ethereum account address and current balance displayed on the screen.
 
-3. Deposit ETH:
+4. Deposit ETH:
   • Click the "Deposit 1 ETH" button to deposit 1 ETH into the smart contract.
   • Confirm the transaction in MetaMask to complete the deposit.
 
-4. Withdraw ETH:
+5. Withdraw ETH:
   • Click the "Withdraw 1 ETH" button to withdraw 1 ETH from the smart contract.
   • Confirm the transaction in MetaMask to complete the withdrawal.
 
