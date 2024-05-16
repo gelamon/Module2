@@ -28,12 +28,19 @@ To run this project locally, follow these steps:
   • After connecting your wallet, you will see your Ethereum account address and current balance displayed on the screen.<br>
   
 3. Deposit ETH:<br>
-  • Click the "Deposit 1 ETH" button to deposit 1 ETH into the smart contract.<br>
+  • Click the "Deposit" button to deposit ETH into the smart contract.<br>
   • Confirm the transaction in MetaMask to complete the deposit.<br>
 
 4. Withdraw ETH:<br>
-  • Click the "Withdraw 1 ETH" button to withdraw 1 ETH from the smart contract.<br>
+  • Click the "Withdraw" button to withdraw ETH from the smart contract.<br>
   • Confirm the transaction in MetaMask to complete the withdrawal.<br>
+
+5. Get Current Ether Price:<br>
+  • Click the "Get Current Ether Price" button to fetch the current price of Ether in USD.<br>
+
+6. Balance in USD:<br>
+  • Click the "Balance in USD" button to convert your balance from Ether to USD.<br>
+
 
 ## Technologies Used
 
